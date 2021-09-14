@@ -150,6 +150,7 @@ Feel free to list an affiliation with an institution, organization, or company, 
 - **Brian Keegan** (University of Colorado Boulder)
 - **M. Alex Kelly** (Carleton University)
 - **Megan Kennedy**
+- **Rebecca Killick** (Lancaster University, UK)
 - **Ahmed Khaled** (Princeton University)
 - **Christine Kim** (University of California, Los Angeles)
 - **Mara Kirdani-Ryan** (University of Washington, Seattle)
